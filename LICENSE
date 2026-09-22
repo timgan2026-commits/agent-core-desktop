@@ -1,0 +1,50 @@
+Agent Core Public Showcase — License
+
+Copyright (c) 2026 the Agent Core project owner.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Scope: this license applies ONLY to the contents of this `showcase/`
+directory — the README, documentation (`docs/`), demo materials
+(`demo/`), and example snippets (`examples/`). It does NOT apply to, and
+grants no rights whatsoever to, the proprietary Agent Core implementation
+(the planner, verification engine, permission engine, model-routing
+logic, Computer Use implementation, or any other private-core source
+code), which is not included in this repository. See the "Commercial /
+Partnership" section of README.md for how to inquire about the private
+core.
+
+---
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to:
+
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material
+
+for any purpose, even commercially, under the following terms:
+
+  * Attribution — You must give appropriate credit to the Agent Core
+    project, provide a link to this license, and indicate if changes were
+    made. You may do so in any reasonable manner, but not in any way that
+    suggests the licensor endorses you or your use.
+  * No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+No warranties are given. The license may not give you all of the
+permissions necessary for your intended use — for example, other rights
+such as trademark rights may limit how you use the "Agent Core" name
+itself.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+---
+
+Third-party dependencies referenced or used by any example code in
+`examples/` (e.g. `curl`, standard HTTP tooling) retain their own,
+separate licenses. None of those licenses are affected or superseded by
+this file.
