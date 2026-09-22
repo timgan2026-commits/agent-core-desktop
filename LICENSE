@@ -4,15 +4,15 @@ Copyright (c) 2026 the Agent Core project owner.
 
 SPDX-License-Identifier: CC-BY-4.0
 
-Scope: this license applies ONLY to the contents of this `showcase/`
-directory — the README, documentation (`docs/`), demo materials
-(`demo/`), and example snippets (`examples/`). It does NOT apply to, and
-grants no rights whatsoever to, the proprietary Agent Core implementation
-(the planner, verification engine, permission engine, model-routing
-logic, Computer Use implementation, or any other private-core source
-code), which is not included in this repository. See the "Commercial /
-Partnership" section of README.md for how to inquire about the private
-core.
+Scope: this license applies ONLY to the contents of this repository — the
+README, documentation (`docs/`), demo materials (`demo/`), and example
+snippets (`examples/`). This repository is a public showcase; it does NOT
+include, and this license grants no rights whatsoever to, the proprietary
+Agent Core implementation (the planner, verification engine, permission
+engine, model-routing logic, Computer Use implementation, or any other
+private-core source code), which lives in a separate, private codebase.
+See the "Commercial / Partnership" section of README.md for how to
+inquire about the private core.
 
 ---
 
